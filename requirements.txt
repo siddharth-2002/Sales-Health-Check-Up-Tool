@@ -1,0 +1,4 @@
+streamlit==1.24.1          # For the web application interface
+pandas==1.5.3              # For data handling and CSV processing
+reportlab==3.5.67          # For PDF report generation, a stable version
+Pillow==9.5.0              # Required by reportlab for image handling
