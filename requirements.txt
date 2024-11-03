@@ -1,3 +1,0 @@
-streamlit==1.24.1         # For the web application interface
-pandas==1.5.3             # For data processing and CSV handling
-reportlab==3.6.12         # For PDF report generation
